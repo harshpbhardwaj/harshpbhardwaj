@@ -1,7 +1,6 @@
 
-
-<div align="center" style="border-radius: 50%;position: relative; top: -50px;">
-  <img src="https://pbs.twimg.com/profile_images/1765790881909739522/oJZyDDnC_400x400.jpg" alt="Profile Picture" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 150px; height: 150px;">
+<div align="center">
+  <img src="https://i.ibb.co/6wMjjtn/Picsart-24-03-09-01-48-58-303.jpg" alt="Cover Image" width="100%">
 </div>
 
 ## HARSH PRATAP BHARDWAJ
