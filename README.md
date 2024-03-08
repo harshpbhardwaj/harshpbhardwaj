@@ -1,6 +1,12 @@
-## HARSH PRATAP BHARDWAJ
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1763917746583281664/1709834007/1500x500" alt="Cover Image" width="100%">
+</div>
 
-![Profile Picture](https://avatars.githubusercontent.com/u/46666678?v=4)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/46666678?v=4" alt="Profile Picture" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" width="150px">
+</div>
+
+## HARSH PRATAP BHARDWAJ
 
 ### Skills
 
@@ -24,8 +30,6 @@ Hello! I'm Harsh Pratap Bhardwaj, a passionate developer with expertise in vario
 My proficiency in Python, JavaScript, and PHP enables me to develop dynamic and interactive web solutions tailored to meet specific requirements. Currently, I'm expanding my skills in Angular to enhance my front-end development capabilities.
 
 Feel free to reach out if you need assistance or collaboration on any exciting projects! Let's create something amazing together. 🚀
-
-![Cover Image](https://pbs.twimg.com/profile_banners/1763917746583281664/1709834007/1500x500)
 
 --- 
 
