@@ -2,7 +2,7 @@
   <img src="https://pbs.twimg.com/profile_banners/1763917746583281664/1709834007/1500x500" alt="Cover Image" width="100%">
 </div>
 
-<div align="center">
+<div align="center" style="position: relative; top: -50px;">
   <img src="https://avatars.githubusercontent.com/u/46666678?v=4" alt="Profile Picture" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" width="150px">
 </div>
 
