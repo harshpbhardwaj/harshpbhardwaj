@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://i.postimg.cc/Dy2jv1fK/Picsart-24-03-09-01-48-58-303.jpg" alt="Cover Image" width="100%">
 </div>
@@ -8,26 +7,26 @@
 ### Skills
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Databases</b></td>
-      <td align="center"><b>Frontend</b></td>
+      <td align="center" style="padding: 20px;"><b>Backend</b></td>
+      <td align="center" style="padding: 20px;"><b>Databases</b></td>
+      <td align="center" style="padding: 20px;"><b>Frontend</b></td>
     </tr>
     <tr>
-      <td>Django/REST framework</td>
-      <td>Postgres</td>
-      <td>Angular (Learning)</td>
+      <td style="padding: 20px;">Django/REST framework</td>
+      <td style="padding: 20px;">Postgres</td>
+      <td style="padding: 20px;">Angular (Learning)</td>
     </tr>
     <tr>
-      <td>Node.js/ExpressJS</td>
-      <td>MongoDB</td>
-      <td>jQuery/Ajax</td>
+      <td style="padding: 20px;">Node.js/ExpressJS</td>
+      <td style="padding: 20px;">MongoDB</td>
+      <td style="padding: 20px;">jQuery/Ajax</td>
     </tr>
     <tr>
-      <td>Codeigniter/Laravel</td>
-      <td>MySQL</td>
-      <td>HTML/CSS/Bootstrap</td>
+      <td style="padding: 20px;">Codeigniter/Laravel</td>
+      <td style="padding: 20px;">MySQL</td>
+      <td style="padding: 20px;">HTML/CSS/Bootstrap</td>
     </tr>
   </table>
 </div>
