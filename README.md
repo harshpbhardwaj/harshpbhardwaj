@@ -1,6 +1,6 @@
-<div align="center">
+</-- <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/1763917746583281664/1709834007/1500x500" alt="Cover Image" width="100%">
-</div>
+</div> -->
 
 <div align="center" style="position: relative; top: -50px;">
   <img src="https://pbs.twimg.com/profile_images/1765790881909739522/oJZyDDnC_400x400.jpg" alt="Profile Picture" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 150px; height: 150px;">
