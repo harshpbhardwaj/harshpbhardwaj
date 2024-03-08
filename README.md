@@ -16,7 +16,7 @@
     <tr>
       <td style="padding: 20px;">Django/REST framework</td>
       <td style="padding: 20px;">Postgres</td>
-      <td style="padding: 20px;">Angular (Learning)</td>
+      <td style="padding: 20px;">React.js</td>
     </tr>
     <tr>
       <td style="padding: 20px;">Node.js/ExpressJS</td>
