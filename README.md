@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.ibb.co/6wMjjtn/Picsart-24-03-09-01-48-58-303.jpg" alt="Cover Image" width="100%">
+  <img src="https://i.postimg.cc/Dy2jv1fK/Picsart-24-03-09-01-48-58-303.jpg" alt="Cover Image" width="100%">
 </div>
 
 ## HARSH PRATAP BHARDWAJ
