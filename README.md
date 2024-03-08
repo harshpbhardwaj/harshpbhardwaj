@@ -3,25 +3,37 @@
 </div>
 
 <div align="center" style="position: relative; top: -50px;">
-  <img src="https://avatars.githubusercontent.com/u/46666678?v=4" alt="Profile Picture" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 150px; height: 150px;">
+  <img src="https://pbs.twimg.com/profile_images/1765790881909739522/oJZyDDnC_400x400.jpg" alt="Profile Picture" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 150px; height: 150px;">
 </div>
 
 ## HARSH PRATAP BHARDWAJ
 
 ### Skills
 
-- **Django/REST framework**
-- **Node.js/ExpressJS**
-- **Codeigniter/Laravel**
-- **Postgres**
-- **MongoDB**
-- **MySQL**
-- **Python**
-- **JavaScript**
-- **PHP**
-- **Angular (Learning)**
-- **jQuery/Ajax**
-- **HTML/CSS/Bootstrap**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Databases</b></td>
+      <td align="center"><b>Frontend</b></td>
+    </tr>
+    <tr>
+      <td>Django/REST framework</td>
+      <td>Postgres</td>
+      <td>Angular (Learning)</td>
+    </tr>
+    <tr>
+      <td>Node.js/ExpressJS</td>
+      <td>MongoDB</td>
+      <td>jQuery/Ajax</td>
+    </tr>
+    <tr>
+      <td>Codeigniter/Laravel</td>
+      <td>MySQL</td>
+      <td>HTML/CSS/Bootstrap</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
