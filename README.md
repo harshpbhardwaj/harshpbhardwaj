@@ -1,3 +1,4 @@
+<link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet">
 
 <div align="center" style="background-color: #121212; color: #FFFFFF;">
   <img src="https://i.postimg.cc/y6h7kj2Y/Picsart-24-03-09-21-18-29-907.jpg" alt="Cover Image" width="100%">
