@@ -8,7 +8,7 @@
 
 ### Skills
 
-<div align="center">
+<div align="center"  style="font-family: 'Cutive Mono', monospace;">
   <table style="border-collapse: collapse;">
     <tr>
       <td align="center" style="background-color: #00FFFF; padding: 20px;"><b>Backend</b></td>
