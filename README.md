@@ -20,7 +20,7 @@
 
 ---
 
-  ```
+  ```vbnet
 
   Hello! I am Harsh Pratap Bhardwaj, a passionate developer with expertise in various technologies.
   I specialize in building robust web applications using Django, Node.js, and Codeigniter/Laravel.
