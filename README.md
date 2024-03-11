@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/sX8HxVZx/1.png" alt="Cover Image" width="100%">
 </div>
-
+---
 <div align="center">
   <img src="https://i.postimg.cc/fy9206xK/2.png" alt="Cover Image" width="100%">
 </div>
