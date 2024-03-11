@@ -35,10 +35,10 @@
 </div>
 
 ---
-<div  style="font-family: 'Cutive Mono', monospace;">
+
   [LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
 
-</div>
+---
 
   ```vbnet
   Hello! I'm Harsh Pratap Bhardwaj, a passionate developer with expertise in various technologies.
@@ -46,12 +46,17 @@
   With extensive experience in database management systems like Postgres, MongoDB, and MySQL,
   I ensure efficient data storage and retrieval for my projects.
   
+---
 
+
+  ```vbnet
   My proficiency in Python, JavaScript, and PHP enables me to develop dynamic and
   interactive web solutions tailored to meet specific requirements. Currently,
   I'm expanding my skills in Angular to enhance my front-end development capabilities.
 
+---
 
+  ```vbnet
   Feel free to reach out if you need assistance or collaboration on any exciting projects!
   Let's create something amazing together. 🚀
 
