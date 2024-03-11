@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap" rel="stylesheet">
 
 <div align="center">
-  <img src="https://i.postimg.cc/y6h7kj2Y/Picsart-24-03-09-21-18-29-907.jpg" alt="Cover Image" width="100%">
+  <img src="https://www.canva.com/design/DAF_Mtgvjc0/ej7DP4xulmwN-imsP2yc6g/view?utm_content=DAF_Mtgvjc0&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Cover Image" width="100%">
 </div>
 
 ## HARSH PRATAP BHARDWAJ
