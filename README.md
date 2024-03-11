@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://postimg.cc/2bQ7XNGN][img]https://i.postimg.cc/2bQ7XNGN/1.png" alt="Cover Image" width="100%">
+  <img src="https://i.postimg.cc/sX8HxVZx/1.png" alt="Cover Image" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://postimg.cc/hQKbkZZz][img]https://i.postimg.cc/hQKbkZZz/2.png" alt="Cover Image" width="100%">
+  <img src="https://i.postimg.cc/fy9206xK/2.png" alt="Cover Image" width="100%">
 </div>
 
 <div align="center">
