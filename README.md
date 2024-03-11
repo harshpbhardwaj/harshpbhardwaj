@@ -36,6 +36,7 @@
 
 ---
 <div  style="font-family: 'Cutive Mono', monospace;">
+
   ```vbnet
   Hello! I'm Harsh Pratap Bhardwaj, a passionate developer with expertise in various technologies. I specialize in building robust web applications using Django, Node.js, and Codeigniter/Laravel. With extensive experience in database management systems like Postgres, MongoDB, and MySQL, I ensure efficient data storage and retrieval for my projects.
   
@@ -43,7 +44,7 @@
 
   ```vbnet
   Feel free to reach out if you need assistance or collaboration on any exciting projects! Let's create something amazing together. 🚀
-  
+
 </div>
 ---
 
