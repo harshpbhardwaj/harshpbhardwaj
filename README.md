@@ -6,9 +6,7 @@
 
 ## HARSH PRATAP BHARDWAJ
 
-### Skills
-
-<div align="center">
+### Skills:
 
 | Backend              | Databases | Frontend     |
 |----------------------|-----------|--------------|
@@ -16,7 +14,6 @@
 | Node.js/ExpressJS    | MongoDB   | jQuery/Ajax  |
 | Codeigniter/Laravel  | MySQL     | HTML/CSS/Bootstrap |
 
-</div>
 
 ---
 
@@ -39,9 +36,8 @@
 
 ---
 
-[LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
+### Find me at:
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/harshpratapbhardwaj) &nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@lime_cl-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/HarxTechDev) &nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/My_Website-antonioleiva.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](http://harx.online) &nbsp;&nbsp;&nbsp;
