@@ -54,6 +54,8 @@
   ```
   
 </div>
+
 ---
-  [LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
+
+[LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
 
