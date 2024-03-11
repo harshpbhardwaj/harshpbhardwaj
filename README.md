@@ -35,16 +35,13 @@
 </div>
 
 ---
-
-  [LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
-
----
+<div  style="font-family: 'Cutive Mono', monospace;">
 
   ```vbnet
-    Hello! I am Harsh Pratap Bhardwaj, a passionate developer with expertise in various technologies.
-    I specialize in building robust web applications using Django, Node.js, and Codeigniter/Laravel.
-    With extensive experience in database management systems like Postgres, MongoDB, and MySQL,
-    I ensure efficient data storage and retrieval for my projects.
+  Hello! I am Harsh Pratap Bhardwaj, a passionate developer with expertise in various technologies.
+  I specialize in building robust web applications using Django, Node.js, and Codeigniter/Laravel.
+  With extensive experience in database management systems like Postgres, MongoDB, and MySQL,
+  I ensure efficient data storage and retrieval for my projects.
   
 
   My proficiency in Python, JavaScript, and PHP enables me to develop dynamic and
@@ -54,4 +51,9 @@
 
   Feel free to reach out if you need assistance or collaboration on any exciting projects!
   It would be great if we create something amazing together. 🚀
+  ```
+  
+</div>
+---
+  [LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
 
