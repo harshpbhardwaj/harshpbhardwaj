@@ -39,7 +39,6 @@
   [LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
 
 </div>
----
 
   ```vbnet
   Hello! I'm Harsh Pratap Bhardwaj, a passionate developer with expertise in various technologies.
