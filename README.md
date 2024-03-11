@@ -9,8 +9,6 @@
 
 <div align="center">
 
-|                     | Skills |          |
-|----------------------|-----------|--------------|
 | Backend              | Databases | Frontend     |
 |----------------------|-----------|--------------|
 | Django/REST framework| Postgres  | Angular (Learning) |
