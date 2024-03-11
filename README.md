@@ -6,7 +6,6 @@
 
 ## HARSH PRATAP BHARDWAJ
 
-### Skills
 
 <div align="center">
 
