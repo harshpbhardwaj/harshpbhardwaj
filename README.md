@@ -37,7 +37,10 @@
   ```
 
 ---
+<div align="center">
 
-[![LinkedIn](https://i.postimg.cc/Sx823z3Z/1.png)](https://linkedin.com/in/harshpratapbhardwaj) &nbsp;&nbsp;&nbsp;
-[![Twitter](https://i.postimg.cc/PrvPvwXt/2.png)](https://twitter.com/HarxTechDev) &nbsp;&nbsp;&nbsp;
-[![Portfolio](https://i.postimg.cc/QtMM8BYZ/3.png)](http://harx.online) &nbsp;&nbsp;&nbsp;
+[<img src="https://i.postimg.cc/Sx823z3Z/1.png" alt="LinkedIn" width="100">](https://linkedin.com/in/harshpratapbhardwaj) &nbsp;&nbsp;&nbsp;
+[<img src="https://i.postimg.cc/PrvPvwXt/2.png" alt="Twitter" width="100">](https://twitter.com/HarxTechDev) &nbsp;&nbsp;&nbsp;
+[<img src="https://i.postimg.cc/QtMM8BYZ/3.png" alt="Portfolio" width="100">](http://harx.online) &nbsp;&nbsp;&nbsp;
+
+</div>
