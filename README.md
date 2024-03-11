@@ -1,14 +1,14 @@
+
 <div align="center">
-  <img src="https://i.postimg.cc/sX8HxVZx/1.png" alt="Cover Image" width="100%">
+
+[<img src="https://i.postimg.cc/sX8HxVZx/1.png" alt="LinkedIn" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
 <div align="center">
-  <img src="https://i.postimg.cc/fy9206xK/2.png" alt="Cover Image" width="100%">
-</div>
 
-<div align="center">
-  <img src="https://i.postimg.cc/xCsg79Pg/Harsh-1500-x-1000-px.png" alt="Cover Image" width="100%">
+[<img src="https://i.postimg.cc/fy9206xK/2.png" alt="Twitter" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://i.postimg.cc/xCsg79Pg/Harsh-1500-x-1000-px.png" alt="Portfolio" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
