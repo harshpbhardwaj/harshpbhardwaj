@@ -38,9 +38,6 @@
 
 ---
 
-[LinkedIn](https://linkedin.com/in/harshpratapbhardwaj) | [Twitter](https://twitter.com/HarxTechDev) | [Portfolio](http://harx.online) | [GitHub](#)
-
-
-
-
-
+[![LinkedIn](https://i.postimg.cc/Sx823z3Z/1.png)](https://linkedin.com/in/harshpratapbhardwaj) &nbsp;&nbsp;&nbsp;
+[![Twitter](https://i.postimg.cc/PrvPvwXt/2.png)](https://twitter.com/HarxTechDev) &nbsp;&nbsp;&nbsp;
+[![Portfolio](https://i.postimg.cc/QtMM8BYZ/3.png)](http://harx.online) &nbsp;&nbsp;&nbsp;
