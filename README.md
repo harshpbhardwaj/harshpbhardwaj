@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[<img src="https://i.postimg.cc/sX8HxVZx/1.png" alt="LinkedIn" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://harshpratap.online/file_uploads/Images/663cc7e996e52_Harsh.png" alt="LinkedIn" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
