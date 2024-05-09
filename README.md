@@ -1,14 +1,14 @@
 
 <div align="center">
 
-[<img src="https://harshpratap.online/file_uploads/Images/663cc7e996e52_Harsh.png" alt="LinkedIn" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://harshpratap.online/file_uploads/Images/663ccaac8ee63_head%201.png" alt="head" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
 <div align="center">
 
-[<img src="https://i.postimg.cc/fy9206xK/2.png" alt="Twitter" width="100%">](#) &nbsp;&nbsp;&nbsp;
-[<img src="https://i.postimg.cc/xCsg79Pg/Harsh-1500-x-1000-px.png" alt="Portfolio" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://harshpratap.online/file_uploads/Images/663ccad92e755_body%202.png" alt="body" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://harshpratap.online/file_uploads/Images/663ccaf02edf6_foot%203.png" alt="foot" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
