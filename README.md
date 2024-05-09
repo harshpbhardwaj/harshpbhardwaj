@@ -8,7 +8,7 @@
 <div align="center">
 
 [<img src="https://harshpratap.online/file_uploads/Images/663ccad92e755_body%202.png" alt="body" width="100%">](#) &nbsp;&nbsp;&nbsp;
-[<img src="https://harshpratap.online/file_uploads/Images/663ccaf02edf6_foot%203.png" alt="foot" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://harshpratap.online/file_uploads/Images/663ccf1806776_Github%20Body.png" alt="foot" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
