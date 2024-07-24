@@ -1,13 +1,13 @@
 
 <div align="center">
 
-[<img src="https://harshpratap.online/file_uploads/Images/663ccaac8ee63_head%201.png" alt="head" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://res.cloudinary.com/dcggpt4p3/image/upload/v1721798517/m8j0lrzwpggjwesubsru.png" alt="head" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
 <div align="center">
 
-[<img src="https://harshpratap.online/file_uploads/Images/663ccad92e755_body%202.png" alt="body" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://res.cloudinary.com/dcggpt4p3/image/upload/v1721798517/yxusoftpniklltjvapx6.png" alt="body" width="100%">](#) &nbsp;&nbsp;&nbsp;
 [<img src="https://harshpratap.online/file_uploads/Images/663ccf1806776_Github%20Body.png" alt="foot" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
