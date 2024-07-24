@@ -7,8 +7,8 @@
 ---
 <div align="center">
 
-[<img src="https://res.cloudinary.com/dcggpt4p3/image/upload/v1721798517/yxusoftpniklltjvapx6.png" alt="body" width="100%">](#) &nbsp;&nbsp;&nbsp;
-[<img src="https://harshpratap.online/file_uploads/Images/663ccf1806776_Github%20Body.png" alt="foot" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://res.cloudinary.com/dcggpt4p3/image/upload/v1721798918/wb7cyr8siwshhyoeupvq.png" alt="body" width="100%">](#) &nbsp;&nbsp;&nbsp;
+[<img src="https://res.cloudinary.com/dcggpt4p3/image/upload/v1721798517/yxusoftpniklltjvapx6.png" alt="foot" width="100%">](#) &nbsp;&nbsp;&nbsp;
 </div>
 
 ---
